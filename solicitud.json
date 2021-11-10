@@ -1,0 +1,1527 @@
+{
+    "data": [{
+            "id": 0,
+            "guid": "53ae5bb5-595f-4d74-b31b-fb5f5ec8b8ab",
+            "isActive": true,
+            "montoSolicitud": "$2,783.28",
+            "montoPreOferta": "$2,399.10",
+            "nroDocumento": 92360841,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Santos Pickett",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 1,
+            "guid": "45569ef2-501b-4d0f-9013-bd3c859db3fe",
+            "isActive": true,
+            "montoSolicitud": "$2,813.63",
+            "montoPreOferta": "$1,645.09",
+            "nroDocumento": 99505889,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Joni Saunders",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 2,
+            "guid": "977346c5-6a7b-457c-9370-da191f8be24c",
+            "isActive": true,
+            "montoSolicitud": "$2,612.06",
+            "montoPreOferta": "$3,882.81",
+            "nroDocumento": 4011780,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Michele Pratt",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_3",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 3,
+            "guid": "7847b041-f937-44cb-ace5-00a3c9fb4ea2",
+            "isActive": false,
+            "montoSolicitud": "$3,621.33",
+            "montoPreOferta": "$3,604.50",
+            "nroDocumento": 69882727,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Audrey Moon",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_3",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 4,
+            "guid": "103a1977-3946-4d39-a1a0-bb04ed771c89",
+            "isActive": false,
+            "montoSolicitud": "$1,681.10",
+            "montoPreOferta": "$3,465.61",
+            "nroDocumento": 52444062,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Ortiz Silva",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_1",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 5,
+            "guid": "6bb49cb7-a511-423d-898b-f153fe277e37",
+            "isActive": true,
+            "montoSolicitud": "$1,715.77",
+            "montoPreOferta": "$1,100.81",
+            "nroDocumento": 62725904,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Edwina Warren",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_5",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 6,
+            "guid": "3b54db35-0221-4214-8edd-dbd756d5ae36",
+            "isActive": false,
+            "montoSolicitud": "$2,369.36",
+            "montoPreOferta": "$1,579.87",
+            "nroDocumento": 73471799,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Montgomery Cash",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_3",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 7,
+            "guid": "1b2ba696-8ca6-4a22-9085-a8669ff727eb",
+            "isActive": true,
+            "montoSolicitud": "$1,426.71",
+            "montoPreOferta": "$3,368.00",
+            "nroDocumento": 24337237,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Hunt Shaffer",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_1",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 8,
+            "guid": "1b3ee336-6eba-4ec9-8424-60641a093971",
+            "isActive": false,
+            "montoSolicitud": "$1,648.28",
+            "montoPreOferta": "$1,531.54",
+            "nroDocumento": 7667441,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Jaime Pace",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_5",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 9,
+            "guid": "ef2930b1-9f4a-48c7-bbc3-fca6ba029541",
+            "isActive": true,
+            "montoSolicitud": "$2,442.21",
+            "montoPreOferta": "$2,072.36",
+            "nroDocumento": 58629280,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Beverley Torres",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 10,
+            "guid": "8f6ba9ab-abcc-46bc-8234-ec2133675dba",
+            "isActive": false,
+            "montoSolicitud": "$3,642.85",
+            "montoPreOferta": "$1,004.35",
+            "nroDocumento": 12524095,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Frost Delacruz",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 11,
+            "guid": "80059689-f616-4b82-a087-e689623bc541",
+            "isActive": true,
+            "montoSolicitud": "$2,148.40",
+            "montoPreOferta": "$3,214.33",
+            "nroDocumento": 73030101,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Moore Cardenas",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 12,
+            "guid": "b099409a-c8c5-4cf9-9025-8674bb1f2a30",
+            "isActive": false,
+            "montoSolicitud": "$1,481.62",
+            "montoPreOferta": "$1,656.85",
+            "nroDocumento": 7055015,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Patterson Singleton",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_5",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 13,
+            "guid": "e51b9b42-9021-43cf-af10-91524f5b7d82",
+            "isActive": true,
+            "montoSolicitud": "$1,007.16",
+            "montoPreOferta": "$2,313.99",
+            "nroDocumento": 34474942,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Lawanda Bauer",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 14,
+            "guid": "c96dcbeb-07e6-4a1c-85b2-4f216d7581d6",
+            "isActive": false,
+            "montoSolicitud": "$2,534.97",
+            "montoPreOferta": "$3,463.45",
+            "nroDocumento": 23273166,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Jana Kirkland",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 15,
+            "guid": "e49867ca-c6da-412e-adca-1c7de39e8204",
+            "isActive": false,
+            "montoSolicitud": "$2,204.21",
+            "montoPreOferta": "$2,924.89",
+            "nroDocumento": 90118433,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Letitia Phelps",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 16,
+            "guid": "032dbf73-7620-425d-bc41-744ef93bf852",
+            "isActive": true,
+            "montoSolicitud": "$3,491.69",
+            "montoPreOferta": "$1,648.31",
+            "nroDocumento": 73061776,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Bradley Hunt",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_1",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 17,
+            "guid": "53b00324-81e2-4695-9d3e-ffdaaa8c6820",
+            "isActive": false,
+            "montoSolicitud": "$2,383.16",
+            "montoPreOferta": "$1,366.80",
+            "nroDocumento": 43254959,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Kathrine Simon",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_4",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 18,
+            "guid": "833d66c5-5801-4228-b6c1-ce355bc2f4b9",
+            "isActive": false,
+            "montoSolicitud": "$3,148.43",
+            "montoPreOferta": "$1,053.17",
+            "nroDocumento": 30516207,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Kinney Hays",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_5",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 19,
+            "guid": "a9e8824a-db11-4d70-8574-968d76070652",
+            "isActive": true,
+            "montoSolicitud": "$2,323.39",
+            "montoPreOferta": "$2,719.09",
+            "nroDocumento": 70240575,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Warner Tyson",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 20,
+            "guid": "7020e569-8947-4c92-9d2d-4f17b7e28d34",
+            "isActive": false,
+            "montoSolicitud": "$2,836.55",
+            "montoPreOferta": "$2,078.37",
+            "nroDocumento": 53731113,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Candace Rutledge",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 21,
+            "guid": "64bdf769-72ff-4152-8127-db22898d5d65",
+            "isActive": true,
+            "montoSolicitud": "$2,281.89",
+            "montoPreOferta": "$2,492.01",
+            "nroDocumento": 57101852,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Hilary Gould",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_5",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 22,
+            "guid": "880831b3-ef89-44f0-9bf8-dad474c7e528",
+            "isActive": false,
+            "montoSolicitud": "$1,230.95",
+            "montoPreOferta": "$2,372.81",
+            "nroDocumento": 14066371,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Weiss Bennett",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_5",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 23,
+            "guid": "f868b0bb-3f4f-428f-a055-e31445e256ad",
+            "isActive": false,
+            "montoSolicitud": "$2,847.55",
+            "montoPreOferta": "$2,318.62",
+            "nroDocumento": 17715044,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Miriam Carson",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_1",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 24,
+            "guid": "4ba135ba-7cc7-4046-bbfd-79f6aae9ec1f",
+            "isActive": true,
+            "montoSolicitud": "$1,651.54",
+            "montoPreOferta": "$1,640.82",
+            "nroDocumento": 28977891,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Edwards Frank",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 25,
+            "guid": "768367c9-9d7d-4e55-b188-40f2d4904fef",
+            "isActive": true,
+            "montoSolicitud": "$2,330.79",
+            "montoPreOferta": "$1,902.67",
+            "nroDocumento": 44325343,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Wong Rogers",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_4",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 26,
+            "guid": "74f3a877-9f9c-45d0-877d-b4a203c445f4",
+            "isActive": true,
+            "montoSolicitud": "$2,975.26",
+            "montoPreOferta": "$1,934.20",
+            "nroDocumento": 36737716,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Wendy Berger",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_1",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 27,
+            "guid": "6c5d5f11-23fd-4391-97b2-f61078d62649",
+            "isActive": true,
+            "montoSolicitud": "$2,601.32",
+            "montoPreOferta": "$2,130.00",
+            "nroDocumento": 79907739,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Lynette Mathis",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_1",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 28,
+            "guid": "6577ad01-41f6-4f59-9fba-566225110b46",
+            "isActive": false,
+            "montoSolicitud": "$3,498.81",
+            "montoPreOferta": "$3,384.95",
+            "nroDocumento": 38115420,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Lavonne Strickland",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 29,
+            "guid": "0cabe78f-ac6d-4c93-ae8c-e76d1a80ff4f",
+            "isActive": false,
+            "montoSolicitud": "$2,816.47",
+            "montoPreOferta": "$2,057.75",
+            "nroDocumento": 84634445,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Isabelle Burgess",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 30,
+            "guid": "42a402ed-5fa1-4a4e-8be0-daed730a744a",
+            "isActive": true,
+            "montoSolicitud": "$2,908.74",
+            "montoPreOferta": "$1,930.40",
+            "nroDocumento": 36376583,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Weaver Compton",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 31,
+            "guid": "730d67b8-75f4-4f31-aeb8-51a6d61efd87",
+            "isActive": true,
+            "montoSolicitud": "$1,214.24",
+            "montoPreOferta": "$2,826.89",
+            "nroDocumento": 9456293,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Slater Blair",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_1",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 32,
+            "guid": "5241b651-109b-4c13-bf5a-195730ad248e",
+            "isActive": true,
+            "montoSolicitud": "$2,063.30",
+            "montoPreOferta": "$1,741.18",
+            "nroDocumento": 81554274,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Margery Salazar",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 33,
+            "guid": "5b67bfe1-0ac2-44a8-80e3-29c2539a0a01",
+            "isActive": false,
+            "montoSolicitud": "$2,672.07",
+            "montoPreOferta": "$3,708.33",
+            "nroDocumento": 2697576,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Margo Underwood",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 34,
+            "guid": "d7964d83-3a1b-4b64-af96-28d9ff42281d",
+            "isActive": true,
+            "montoSolicitud": "$3,192.26",
+            "montoPreOferta": "$3,298.88",
+            "nroDocumento": 45196921,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Olga Clemons",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_1",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 35,
+            "guid": "751093c8-3576-483a-b1bb-2b603b5f8e84",
+            "isActive": true,
+            "montoSolicitud": "$2,260.23",
+            "montoPreOferta": "$1,282.69",
+            "nroDocumento": 88189105,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Callahan Mercer",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 36,
+            "guid": "cef6117e-2406-4a06-b704-bbe4949402d3",
+            "isActive": false,
+            "montoSolicitud": "$3,524.67",
+            "montoPreOferta": "$1,268.32",
+            "nroDocumento": 67972479,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Dollie Mckenzie",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 37,
+            "guid": "0b405034-4eb9-4696-871c-e31d5a96fd60",
+            "isActive": false,
+            "montoSolicitud": "$1,429.20",
+            "montoPreOferta": "$2,280.13",
+            "nroDocumento": 73435366,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Valerie Hall",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 38,
+            "guid": "3fe8f63c-e8c2-4ae9-b456-935758825d31",
+            "isActive": false,
+            "montoSolicitud": "$3,278.21",
+            "montoPreOferta": "$2,147.58",
+            "nroDocumento": 97215270,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Mckay Rivas",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_3",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 39,
+            "guid": "0090f8a6-a8a3-4b97-80ab-80b26f678da9",
+            "isActive": true,
+            "montoSolicitud": "$2,857.02",
+            "montoPreOferta": "$2,570.28",
+            "nroDocumento": 80237711,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Emerson Rowe",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 40,
+            "guid": "7f0b2bab-aca4-4cff-9006-50108c9cb460",
+            "isActive": false,
+            "montoSolicitud": "$3,825.31",
+            "montoPreOferta": "$2,375.84",
+            "nroDocumento": 5899384,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Sanders Mcleod",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_4",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 41,
+            "guid": "41339853-96aa-4ae9-8290-41f47a927fac",
+            "isActive": true,
+            "montoSolicitud": "$2,886.72",
+            "montoPreOferta": "$2,631.18",
+            "nroDocumento": 74017081,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Bailey Williamson",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_3",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 42,
+            "guid": "e05233a6-2637-488b-b96d-64771f0e886b",
+            "isActive": false,
+            "montoSolicitud": "$2,124.99",
+            "montoPreOferta": "$2,925.75",
+            "nroDocumento": 91580819,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Chapman Alexander",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 43,
+            "guid": "1f49203d-733d-45fc-a3ef-43cdc3bb1473",
+            "isActive": true,
+            "montoSolicitud": "$3,848.89",
+            "montoPreOferta": "$2,390.44",
+            "nroDocumento": 30921345,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Renee Mathews",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 44,
+            "guid": "329ba4b3-ca07-409a-a943-a7e2deea2943",
+            "isActive": true,
+            "montoSolicitud": "$1,791.66",
+            "montoPreOferta": "$1,278.96",
+            "nroDocumento": 3503490,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Sally Lyons",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 45,
+            "guid": "9ceeddb0-afdd-4485-b46c-2cd4855e0af8",
+            "isActive": true,
+            "montoSolicitud": "$1,011.10",
+            "montoPreOferta": "$3,736.15",
+            "nroDocumento": 19554188,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Wendi Ellis",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 46,
+            "guid": "e0993e6d-feb1-4dfb-855b-6498e3a30443",
+            "isActive": true,
+            "montoSolicitud": "$3,578.64",
+            "montoPreOferta": "$1,774.99",
+            "nroDocumento": 95982569,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Merrill Harper",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 47,
+            "guid": "806f03bb-eb35-4e88-8ba0-8b545b28be4d",
+            "isActive": true,
+            "montoSolicitud": "$2,538.57",
+            "montoPreOferta": "$3,939.86",
+            "nroDocumento": 2195024,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Leanna Moran",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 48,
+            "guid": "47e3d9d8-ab61-47ff-95ae-96f3767aca58",
+            "isActive": true,
+            "montoSolicitud": "$2,243.92",
+            "montoPreOferta": "$1,635.94",
+            "nroDocumento": 33871601,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Brooke Hamilton",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_5",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 49,
+            "guid": "bb00f6d8-22ce-431e-85cf-837a55e57c40",
+            "isActive": true,
+            "montoSolicitud": "$3,125.87",
+            "montoPreOferta": "$2,662.78",
+            "nroDocumento": 66822221,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Christi Jackson",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 50,
+            "guid": "145de920-3856-4a14-b5e8-49b639b42473",
+            "isActive": true,
+            "montoSolicitud": "$2,442.91",
+            "montoPreOferta": "$2,398.04",
+            "nroDocumento": 60934556,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Garza Mcfadden",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_4",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 51,
+            "guid": "1740c87f-88cd-4673-a910-2c08cd08e6f6",
+            "isActive": false,
+            "montoSolicitud": "$3,456.39",
+            "montoPreOferta": "$3,449.37",
+            "nroDocumento": 21336548,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Clemons Hart",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 52,
+            "guid": "1d28f06d-8914-494d-80c0-0507e96944b9",
+            "isActive": false,
+            "montoSolicitud": "$1,734.43",
+            "montoPreOferta": "$1,263.49",
+            "nroDocumento": 57963392,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Irwin Sawyer",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_5",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 53,
+            "guid": "447388cb-99ba-40f7-80fb-c98f87887981",
+            "isActive": false,
+            "montoSolicitud": "$2,582.76",
+            "montoPreOferta": "$2,118.47",
+            "nroDocumento": 15322932,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Pittman Goff",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_5",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 54,
+            "guid": "c34e27ea-d8c9-46de-9730-ad4d17b7d56c",
+            "isActive": true,
+            "montoSolicitud": "$1,473.70",
+            "montoPreOferta": "$1,027.26",
+            "nroDocumento": 42762878,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Shari Rios",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 55,
+            "guid": "dc2b8f37-653a-447e-9041-cb7ca2c74633",
+            "isActive": false,
+            "montoSolicitud": "$2,507.19",
+            "montoPreOferta": "$2,330.75",
+            "nroDocumento": 82185836,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Fowler Fulton",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 56,
+            "guid": "ae4c1911-d59f-447e-8e58-7b4fbbba3e64",
+            "isActive": true,
+            "montoSolicitud": "$3,423.99",
+            "montoPreOferta": "$2,277.70",
+            "nroDocumento": 99176433,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Wolfe Stevens",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_4",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 57,
+            "guid": "848c0240-37a7-4d46-a406-babe53755d15",
+            "isActive": true,
+            "montoSolicitud": "$2,609.03",
+            "montoPreOferta": "$3,676.40",
+            "nroDocumento": 59112517,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Stacie Fischer",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 58,
+            "guid": "7dcfe7de-7585-443f-850a-b36eee6c0b94",
+            "isActive": true,
+            "montoSolicitud": "$2,614.04",
+            "montoPreOferta": "$1,283.50",
+            "nroDocumento": 45149370,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Hensley Knox",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 59,
+            "guid": "c85c0d21-4064-4703-ad16-56f197e710b4",
+            "isActive": true,
+            "montoSolicitud": "$3,645.14",
+            "montoPreOferta": "$1,778.09",
+            "nroDocumento": 91053497,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Corinne Bass",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 60,
+            "guid": "5c3d5679-90c8-46ec-ae22-f79c3e6c0138",
+            "isActive": true,
+            "montoSolicitud": "$1,331.34",
+            "montoPreOferta": "$2,508.28",
+            "nroDocumento": 2729914,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Willie Robbins",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_3",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 61,
+            "guid": "6851f843-5fa3-4382-a436-2bdd00c05a65",
+            "isActive": false,
+            "montoSolicitud": "$1,160.51",
+            "montoPreOferta": "$1,346.41",
+            "nroDocumento": 70371837,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Yolanda Galloway",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_6",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 62,
+            "guid": "fa2435e3-fbb1-406d-80f9-1fd0c00e8a31",
+            "isActive": false,
+            "montoSolicitud": "$3,636.14",
+            "montoPreOferta": "$3,664.91",
+            "nroDocumento": 97321988,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Beth Anderson",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_2",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 63,
+            "guid": "7500e4c0-d3f5-4c8b-8135-abb0bc597939",
+            "isActive": false,
+            "montoSolicitud": "$1,917.65",
+            "montoPreOferta": "$3,696.34",
+            "nroDocumento": 85700003,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "POLICIA",
+            "nombreCliente": "Ina Mcbride",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_5",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 64,
+            "guid": "aaac8709-9392-4c78-8578-c462b48943ae",
+            "isActive": false,
+            "montoSolicitud": "$2,475.87",
+            "montoPreOferta": "$3,177.64",
+            "nroDocumento": 41981656,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "DEA",
+            "nombreCliente": "Randolph Herman",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_1",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        },
+        {
+            "id": 65,
+            "guid": "389f8be2-d437-4c40-8212-f29fc54d2013",
+            "isActive": false,
+            "montoSolicitud": "$1,429.92",
+            "montoPreOferta": "$1,037.56",
+            "nroDocumento": 8724275,
+            "tipoCredito": "NUEVO",
+            "lineaCredito": "LIBRE_INVERSION",
+            "pagaduria": "MILITAR",
+            "nombreCliente": "Fuentes Huber",
+            "asesor": {
+                "id": 1,
+                "nombre": "Donald",
+                "apellido": "Trump"
+            },
+            "pasoOnBoarding": {
+                "pasoOnBoarding": "PASO_1_1",
+                "jerarquia": "PASO_3",
+                "title": "REGISTRO"
+            },
+            "slaRestante": null
+        }
+    ],
+    "meta": {
+        "total_entries": 39,
+        "per_page": 5,
+        "current_pag": 1,
+        "total_pages": 8
+    }
+}
